@@ -24,6 +24,7 @@
 | [comcast](stable/comcast) | periodic comcast data usage checks and save the results to InfluxDB |
 | [cryptofolio](stable/cryptofolio) | Track your cryptocurrency holdings/portfolio |
 | [deconz](stable/deconz) | deCONZ is an easy to use control software, with which you can set up and control Zigbee networks of any size without further programming effort. |
+| [deemix](stable/deemix) | Deemix is a Deezer Download Manager |
 | [deepstack](stable/deepstack) | An AI API engine that serves pre-built models and custom models on multiple edge devices locally or on your private cloud |
 | [deluge](stable/deluge) | Deluge is a torrent download client |
 | [dizquetv](stable/dizquetv) | Create live TV channel streams from media on your Plex servers. |
@@ -94,6 +95,7 @@
 | [nginx-php](stable/nginx-php) | Nginx and PHP FPM for running PHP applications |
 | [nightscout](stable/nightscout) | nightscout helm package |
 | [node-red](stable/node-red) | Node-RED is low-code programming for event-driven applications |
+| [ntfy](stable/ntfy) | Send push notifications to your phone or desktop using PUT/POST |
 | [nullserv](stable/nullserv) | A simple null file http and https server |
 | [nzbget](stable/nzbget) | NZBGet is a Usenet downloader client |
 | [nzbhydra2](stable/nzbhydra2) | Usenet meta search |
@@ -131,6 +133,7 @@
 | [reverse-proxy](stable/reverse-proxy) | Creates ingress reverse-proxies for external hosts with minimum boilerplate |
 | [rhasspy](stable/rhasspy) | rhasspy helm package |
 | [rtorrent-flood](stable/rtorrent-flood) | rTorrent is a stable, high-performance and low resource consumption BitTorrent client. |
+| [rtorrent-rutorrent](stable/rtorrent-rutorrent) | ruTorrent is a popular rtorrent client with a webui for ease of use. |
 | [rtsp-to-web](stable/rtsp-to-web) | RTSPtoWeb converts RTSP streams to WebRTC, LL-HLS, HLS, MSE |
 | [sabnzbd](stable/sabnzbd) | Free and easy binary newsreader |
 | [samba](stable/samba) | A simple in-cluster Samba server |
@@ -140,6 +143,7 @@
 | [send](stable/send) | Simple, private file sharing. |
 | [ser2sock](stable/ser2sock) | Serial to Socket Redirector |
 | [sharry](stable/sharry) | Sharry allows to share files with others in a simple way. It is a self-hosted web application. The basic concept is to upload files and get a url back that can then be shared. |
+| [shinobi](stable/shinobi) | shinobi helm package |
 | [shlink](stable/shlink) | A self-hosted and PHP-based URL shortener application with CLI and REST interfaces |
 | [smarter-device-manager](stable/smarter-device-manager) | Manage hardware resource allocation without a need for privileged containers |
 | [sonarr](stable/sonarr) | Smart PVR for newsgroup and bittorrent users |
@@ -190,11 +194,13 @@
 | [handbrake](incubator/handbrake) | handbrake helm package |
 | [kah-common-chart](incubator/kah-common-chart) | A KaH-common powered chart template. This can be useful for small projects that don't have their own chart. |
 | [lancache](incubator/lancache) | LanCache Monolithic - a caching proxy server for game download content |
+| [mopidy](incubator/mopidy) | mopidy helm package |
 | [openhab](incubator/openhab) | openhab helm package |
 | [scrypted](incubator/scrypted) | scrypted helm package |
 | [sdtd](incubator/sdtd) | Dedicated server for 7 Days to Die |
 | [signal-cli-rest-api](incubator/signal-cli-rest-api) | Dockerized Signal Messenger REST API |
 | [sinusbot](incubator/sinusbot) | TeamSpeak & Discord Bot |
+| [snapcast](incubator/snapcast) | snapcast helm package |
 | [strongswan](incubator/strongswan) | strongSwan – the OpenSource IPsec-based VPN Solution |
 | [teamspeak](incubator/teamspeak) | TeamSpeak Server |
 | [torrserver](incubator/torrserver) | TorrServer streams torrent to http |

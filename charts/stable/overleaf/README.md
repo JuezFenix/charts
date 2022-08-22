@@ -1,6 +1,6 @@
 # overleaf
 
-![Version: 2.5.2](https://img.shields.io/badge/Version-2.5.2-informational?style=flat-square) ![AppVersion: 2.7.1](https://img.shields.io/badge/AppVersion-2.7.1-informational?style=flat-square)
+![Version: 3.1.2](https://img.shields.io/badge/Version-3.1.2-informational?style=flat-square) ![AppVersion: 2.7.1](https://img.shields.io/badge/AppVersion-2.7.1-informational?style=flat-square)
 
 A web-based collaborative LaTeX editor
 
@@ -18,9 +18,9 @@ Kubernetes: `>=1.16.0-0`
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://charts.bitnami.com/bitnami | mongodb | 10.31.5 |
-| https://charts.bitnami.com/bitnami | redis | 15.7.6 |
-| https://library-charts.k8s-at-home.com | common | 4.4.2 |
+| https://charts.bitnami.com/bitnami | mongodb | 12.1.22 |
+| https://charts.bitnami.com/bitnami | redis | 16.13.1 |
+| https://library-charts.k8s-at-home.com | common | 4.5.2 |
 
 ## TL;DR
 
@@ -93,7 +93,7 @@ N/A
 
 ## Changelog
 
-### Version 2.5.2
+### Version 3.1.2
 
 #### Added
 
@@ -101,7 +101,7 @@ N/A
 
 #### Changed
 
-* Upgraded `common` chart dependency to version 4.4.2
+* Upgraded `common` chart dependency to version 4.5.2
 
 #### Fixed
 
